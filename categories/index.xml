@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Всякий ролеплейный стафф</title>
-    <link>http://hattivat.github.io/categories/</link>
-    <description>Recent content in Categories on Всякий ролеплейный стафф</description>
+    <title>Categories on RPG Notes</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on RPG Notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru-ru</language>
-    <lastBuildDate>Fri, 14 Jan 2022 00:41:28 +0300</lastBuildDate><atom:link href="http://hattivat.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language>
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Fri, 14 Jan 2022 00:41:28 +0300</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Покрытые мраком города</title>
-      <link>http://hattivat.github.io/categories/%D0%BF%D0%BE%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5-%D0%BC%D1%80%D0%B0%D0%BA%D0%BE%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0/</link>
+      <link>/categories/%D0%BF%D0%BE%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5-%D0%BC%D1%80%D0%B0%D0%BA%D0%BE%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0/</link>
       <pubDate>Fri, 14 Jan 2022 00:41:28 +0300</pubDate>
       
-      <guid>http://hattivat.github.io/categories/%D0%BF%D0%BE%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5-%D0%BC%D1%80%D0%B0%D0%BA%D0%BE%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0/</guid>
+      <guid>/categories/%D0%BF%D0%BE%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5-%D0%BC%D1%80%D0%B0%D0%BA%D0%BE%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0/</guid>
       <description></description>
     </item>
     

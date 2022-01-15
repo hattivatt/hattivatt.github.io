@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>notes on Всякий ролеплейный стафф</title>
-    <link>http://hattivat.github.io/tags/notes/</link>
-    <description>Recent content in notes on Всякий ролеплейный стафф</description>
+    <title>notes on RPG Notes</title>
+    <link>/tags/notes/</link>
+    <description>Recent content in notes on RPG Notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru-ru</language>
-    <lastBuildDate>Fri, 14 Jan 2022 00:41:28 +0300</lastBuildDate><atom:link href="http://hattivat.github.io/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language>
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Fri, 14 Jan 2022 00:41:28 +0300</lastBuildDate><atom:link href="/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Заметки</title>
-      <link>http://hattivat.github.io/posts/cities-covered-in-darkness/notes/</link>
+      <title>Покрытые мраком города. Заметки.</title>
+      <link>/posts/cities-covered-in-darkness/notes/</link>
       <pubDate>Fri, 14 Jan 2022 00:41:28 +0300</pubDate>
       
-      <guid>http://hattivat.github.io/posts/cities-covered-in-darkness/notes/</guid>
+      <guid>/posts/cities-covered-in-darkness/notes/</guid>
       <description>Персонажи Важные Чарльз - инспектор из столичного города, едущий в Делларс с целью проинспектировать местные шахты. Так же, сам того не подозревая, является прикрытием для партии. Сам считает, что мы просто его телохранители/сопровождающие. Считает тех, кто ниже его по рангу людьми второго сорта.
 Флин - пожилой мужчина с бородкой и мощными усами, бармен в кротовой норе. Неразговорчив, держит винтовку за барной стойкой. Связной разведки, приёмный отец Гайры
-Гайра - приёмная дочь Флина.</description>
+Гайра - приёмная дочь Флина. Имеет сеть бродяг-информаторов в городе, через которых достаточно быстро узнаёт обо всём происходящем на улицах.</description>
     </item>
     
   </channel>
