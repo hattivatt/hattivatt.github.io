@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on RPG Notes</title>
-    <link>https://rpg.hattivatt.xyz/authors/</link>
+    <link>https://hattivatt.github.io/authors/</link>
     <description>Recent content in Authors on RPG Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://hattivatt.xyz/&#34;&gt;hattivatt&lt;/a&gt;
-</copyright><atom:link href="https://rpg.hattivatt.xyz/authors/index.xml" rel="self" type="application/rss+xml" />
+</copyright><atom:link href="https://hattivatt.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
